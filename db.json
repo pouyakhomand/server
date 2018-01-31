@@ -1,17 +1,27 @@
- {
-    priceChart:{
-        minPoint:10000000,
-        maxRange:20000000,
-        mediumRange:30000000,
-        maxPoint:50000000,
-    },
-    priceNotes:{
-        buyBox:5000,
-        salesProjectionList:{
-        '10':100,
-        '5':1000,
-        '1':10000
-        }
+{
+  "posts": [
+    {
+        priceChart:{
+            minPoint:10000000,
+            maxRange:20000000,
+            mediumRange:30000000,
+            maxPoint:50000000,
+        },
+        priceNotes:{
+            buyBox:5000,
+            salesProjectionList:{
+            '10':100,
+            '5':1000,
+            '1':10000
+            }
 
+        }
     }
-}
+
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+} 
+
+
